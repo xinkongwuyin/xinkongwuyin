@@ -13,8 +13,6 @@ Completed my undergraduate studies in **Optics and Electronics**.
 - **Primary Language:** C++  
 - **Other Languages:** Java, Python  
 
-# 你好捏
-
 ##目前在读史蒂文斯理工学院计算机科学硕士，找工作ing。
 本科就读于光学与电子相关专业。
 
