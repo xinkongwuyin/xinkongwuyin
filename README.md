@@ -18,7 +18,7 @@ Completed my undergraduate studies in **Optics and Electronics**.
 本科就读于光学与电子相关专业。
 
 对游戏开发感兴趣，学习过 Unreal Engine (UE) 和 Unity，并参与过与硬件相关的 UDP 通信项目。
-红龙书ing
+
 
 平时最常用的编程语言是 C++，也接触过 Java 和 Python 。
 
